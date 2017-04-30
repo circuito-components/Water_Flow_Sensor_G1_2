@@ -10,6 +10,7 @@
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
 
+#define WATERFLOW_PIN_SIG	2
 
 // =======================Pin Definitions // ===================================
 
